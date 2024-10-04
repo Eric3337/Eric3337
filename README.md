@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eric3337
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Python, C/C++!
 - 📫 How to reach me: by email! ezhang3337@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love driving on a 4 lane highway at 2am, best feeling ever
